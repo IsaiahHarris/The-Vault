@@ -22,7 +22,7 @@ will set the `value` in the vault identified by it's `key`.
 
 ```
 getValue( key )
-```
+``` 
 accepts one argument `key`.  
 will return the `value` that was set if the `key` exists in the vault.  
 will return `null` if the `key` does not exist in the vault.
